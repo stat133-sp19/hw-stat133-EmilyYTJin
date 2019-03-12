@@ -3,7 +3,7 @@
 Private Repository for HW assignments of Stat 133 (Spring 2019)
 
 - Name: Emily Jin
-- Github username: EmilyJinYT
+- Github username: EmilyYTJin
 - Email: emilyjin@berkeley.edu
 - Lab section: 110
 - GSI: Shuni Li
