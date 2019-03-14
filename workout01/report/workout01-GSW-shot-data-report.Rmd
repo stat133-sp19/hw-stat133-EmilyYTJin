@@ -1,0 +1,13 @@
+---
+title: "Workout 1"
+author: "Emily Jin"
+output: github_document
+---
+
+```{r}
+col_types <- c("integer", "character", "character", "integer", "integer", "integer", "integer", "character", "factor", "factor", "integer", "character", "integer", "integer", "character", "integer")
+shots_data <- read.csv("C:/Berkeley/Spring19/stat133/workout01/data/shots-data.csv", colClasses = col_types)
+data.frame(arrange())
+```
+
+
